@@ -1,0 +1,6 @@
+@SthinkGetDataFromTaxCodeApi_HostAddress = http://localhost:5163
+
+GET {{SthinkGetDataFromTaxCodeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
